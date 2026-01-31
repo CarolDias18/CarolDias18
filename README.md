@@ -21,7 +21,7 @@ I’m an aspiring **Data Scientist**, currently pursuing my **MSc in Data Scienc
 
 My strong suit is **data visualization in R**, but I’m actively improving my Python "fluency" while exploring **machine learning projects**.
 
----
+<br>
 
 ## Skills and Tools
 
@@ -30,7 +30,7 @@ My strong suit is **data visualization in R**, but I’m actively improving my P
 **Machine Learning:** Random Forest, Linear Regression, XGBoost, Model Evaluation  
 **Other Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
----
+<br>
 
 ## Featured Project
 
@@ -47,15 +47,16 @@ In this project, I:
 
 **Key insight:** Random Forest performs well at modeling housing prices because it captures non-linear relationships and feature interactions that linear models cannot.
 
----
+
+<br>
 
 ## Background
 
 Before entering data science, I have a **background in Marine Biology**, where I focused on **shark research and conservation**. This experience taught me how to **analyze complex datasets, identify patterns, and visualize ecological trends**, which directly translates to my current work in data science.
 
----
+<br>
 
-## Connect with Me
+## Connect with me!
 
 - LinkedIn: [Carolina Dias](https://www.linkedin.com)  
 
