@@ -1,4 +1,4 @@
-# Introducing myself
+# Carolina Dias
 
 <h1 align="center">
   <a><img src="https://images.stockcake.com/public/6/6/0/66060db2-233d-49fb-a96a-7efb1bc35485_large/shark-beneath-waves-stockcake.jpg" alt="Profile Banner" height="400" width="1400"></a>
